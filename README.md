@@ -17,12 +17,9 @@
 
 | 이름  | 깃허브 | 담당 |
 |:---:|:---:|:---:|
-|손정민| [깃헙](suga160329@naver.com
-)| - |
-|김민식| [깃헙](minsigi8911@gmail.com
-)| - |
-|김석영| [깃헙](saiitmail@gmail.com
-)| - |
+|손정민| [깃헙](suga160329@naver.com)| - |
+|김민식| [깃헙](minsigi8911@gmail.com)| - |
+|김석영| [깃헙](saiitmail@gmail.com)| - |
 |이태훈| [깃헙](https://github.com/git-ThLee)| - |
 
 
