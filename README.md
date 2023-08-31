@@ -17,10 +17,10 @@
 
 | 이름  | 깃허브 | 담당 |
 |:---:|:---:|:---:|
-|손정민| [깃헙](https://github.com/rurube)| - |
-|김민식| [깃헙](minsigi8911@gmail.com)| - |
-|김석영| [깃헙](saiitmail@gmail.com)| - |
-|이태훈| [깃헙](https://github.com/git-ThLee)| - |
+|손정민| [깃헙](https://github.com/rurube)| 데이터 분석 ,  데이터 증강 |
+|김민식| [깃헙](minsigi8911@gmail.com)| 모델링(BERT_Multilingual-cased) |
+|김석영| [깃헙](saiitmail@gmail.com)| 모델링(KLUE,Transformer Encoder) |
+|이태훈| [깃헙](https://github.com/git-ThLee)| 데이터 분석 , GPT 전처리 |
 
 
 ## 세부 일정
@@ -31,3 +31,36 @@
 |2| 23.08.30(수) | DLthon 진행|
 |3| 23.08.31(목) | 발표 |
 
+---
+
+## 성능
+
+- Acc : 0.91 
+
+
+## 모델
+
+1. KLUE
+2. Ko-Bert
+
+## 모델 분석
+
+![Alt text](image.png)
+
+## 성능 향상 시도
+
+> Augmentation
+
+![Alt text](image-1.png)
+
+> 문장 선별(가해자 텍스트만 추출) + OpenAI API 활용
+
+![Alt text](image-2.png)
+
+## 성능
+
+![Alt text](image-3.png)
+
+---
+
+자세한 내용은 pptx에서도 확인이 가능합니다.
