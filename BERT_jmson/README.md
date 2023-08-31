@@ -53,6 +53,6 @@
         - `리더보드`:`0.9`
     ---
     - `SUBMISSION` 파일 정보
-    > ``
+    > `mysubmission.csv`
 
 
