@@ -7,17 +7,17 @@
 ---
 
 ## Directory tree
-📦BERT_mskim
- ┣ 📂data
- ┃ ┣ 📜test.csv
- ┃ ┣ 📜train_aug.csv
- ┃ ┣ 📜train.csv
- ┃ ┗ 📜val.csv
- ┣ 📜eda.ipynb
- ┣ 📜bert_10aug.ipynb
- ┣ 📜preprocessing.ipynb
- ┗ 📜README.md
-
+📦BERT_mskim  
+ ┣ 📂data  
+ ┃ ┣ 📜test.csv  
+ ┃ ┣ 📜train_aug.csv  
+ ┃ ┣ 📜train.csv  
+ ┃ ┗ 📜val.csv  
+ ┣ 📜eda.ipynb  
+ ┣ 📜bert_10aug.ipynb  
+ ┣ 📜preprocessing.ipynb  
+ ┗ 📜README.md  
+ 
 ---
 
 ### File Descriptions
