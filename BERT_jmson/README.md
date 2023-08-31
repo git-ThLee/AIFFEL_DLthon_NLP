@@ -12,7 +12,8 @@
  ┃ ┣ 📜test.csv  
  ┃ ┣ 📜train_aug.csv  
  ┃ ┣ 📜train.csv  
- ┃ ┗ 📜val.csv  
+ ┃ ┣ 📜val.csv  
+ ┃ ┗ 📜mysubmission.csv  
  ┣ 📜eda.ipynb  
  ┣ 📜bert_10aug.ipynb  
  ┣ 📜preprocessing.ipynb  
@@ -47,9 +48,9 @@
         - `EPOCH`: 1
     ---
     - 모델 평가
-        - `loss`: ``
-        - `accuracy`: ``
-        - `리더보드`:`0.91`
+        - `loss`: `0.1136`
+        - `accuracy`: `0.9606`
+        - `리더보드`:`0.9`
     ---
     - `SUBMISSION` 파일 정보
     > ``
